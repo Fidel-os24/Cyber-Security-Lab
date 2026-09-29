@@ -1,97 +1,36 @@
-# Cybersecurity Labs & Portfolio
+<h1>Hi, I'm Wale Fidel! <br/><a href="https://github.com/Fidel-os24">Cybersecurity Professional</a>
 
-Hello world! I am Wale Fidel
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Welcome to my cybersecurity learning repository.
+- <b> Cybersecurity Learning portfolio </b>
+  
 
-This repository documents my journey into cybersecurity through hands-on laboratories, technical exercises, Linux administration, networking, security tools, scripting, and security documentation.
+<h2> 🤳 Connect with me:</h2>
 
-## About
+[<img align="left" alt="walefidelx | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="datdarkgg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-I am currently developing practical cybersecurity skills through structured learning and hands-on laboratory environments.
+[twitter]: https://twitter.com/datdarkgg
+[facebook]: https://facebook.com/walefidelx
+[instagram]: https://www.instagram.com/fiidel_x
+[linkedin]: https://www.linkedin.com/in/wale-fidel
 
-My approach is focused on:
+<!--
+*joshmadakor1/joshmadakor1* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-- Learning cybersecurity fundamentals
-- Building and securing virtual laboratory environments
-- Practicing Linux administration
-- Understanding computer networking
-- Learning security tools
-- Writing basic security scripts
-- Performing authorized security testing
-- Documenting practical experiments and findings
+Here are some ideas to get you started:
 
-## Laboratory Environment
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### Host Machine
 
-- HP EliteBook
-- Windows host operating system
-- VirtualBox
-- Ubuntu Linux virtual machine
 
-### Virtual Laboratory
-
-The laboratory environment is isolated from production systems and is used for authorized cybersecurity practice.
-
-## Skills I'm Developing
-
-### Linux
-- Linux command line
-- File and directory management
-- Users and groups
-- File permissions
-- Processes
-- Package management
-- Basic system administration
-
-### Networking
-- IP addressing
-- TCP/IP
-- Ports and protocols
-- DNS
-- HTTP/HTTPS
-- Network troubleshooting
-- Network scanning
-
-### Cybersecurity
-- Security fundamentals
-- Threat identification
-- Vulnerability concepts
-- Authentication and authorization
-- Security monitoring
-- Log analysis
-- Incident response fundamentals
-
-### Security Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- Git/GitHub
-
-### Programming & Scripting
-- Bash
-- Python
-
-## Labs
-
-| Lab | Topic | Status |
-|---|---|---|
-| Lab 01 | Linux Fundamentals | In Progress |
-| Lab 02 | Virtual Machine Setup | Completed |
-| Lab 03 | Networking Fundamentals | Planned |
-| Lab 04 | Network Scanning | Planned |
-| Lab 05 | File Permissions | Planned |
-| Lab 06 | Log Analysis | Planned |
-
-## Authorization Statement
-
-All security testing documented in this repository is performed only against systems that I own, control, or have explicit permission to test.
-
-## Learning Philosophy
-
-Cybersecurity is a practical discipline. I aim to understand not only how security tools work, but also why they work, what their results mean, and how their use can affect real systems.
-
-## Disclaimer
-
-This repository is intended for educational and authorized cybersecurity practice only.
